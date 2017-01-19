@@ -34,7 +34,7 @@
 
 ### 可选任务：将个人教程发布以Gitbook形式发布
 
-- [未完成的gitbook](https://wenyan666.gitbooks.io/learn-python-with-wenyan/content/)
+- [chap2才完成的gitbook](https://www.gitbook.com/book/wenyan666/pythonnote/edit#/edit/master/README.md?_k=1l49q7)
 
 ### 总结
 - 不要一知半解，不要只停留在不求甚解的阶段
