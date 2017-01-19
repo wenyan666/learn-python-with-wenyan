@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-    * [chap0](howtousegitbook.md)
-    * [chan1 ](chan1md.md)
-    * [chap2](chap2md.md)
+    * [chap0](chap0.md)
+    * [chan1 ](chan1.md)
+    * [chap2](chap2.md)
 
