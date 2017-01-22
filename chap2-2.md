@@ -82,10 +82,10 @@
 ## 总结
 - **静下心来学习：** 这个过程坑很多，但是你只要不停下来，基本上所有的问题都会得到解答，不管是用百度，还是Google，只要你静得下心学习，总会看到别人是怎么从这个坑里爬出来......然后掉进另外一个坑的-_-。
 
-- **善用工具：StackOverflow** 在类里面定义enter的时候，就算你读了关于entry的文字介绍，一开始也不知道怎么定义一个enter，过程中可能会按照定义其他函数的方式org(self)是行不通的，程序会告诉你: `enter() takes 1 positional argument but 2 were given`
-把这个copy去Google一下，通过StackOverflow就会发现需要在后面加一个event，果然就真的可以了。
+- **善用工具：StackOverflow** 在类里面定义enter的时候，就算读了关于entry的文字介绍，一开始也不知道怎么定义一个enter，过程中可能会按照定义其他函数的方式org(self)是行不通的，程序会告诉你: `enter() takes 1 positional argument but 2 were given`
+把这个copy去Google一下，通过StackOverflow就会发现需要在后面加一个event。
 
-- **善用py103同侪资源** 对了，再不济，还有同学早就提交的作业可以参考呢，别以为读懂大家的代码容易，看懂并理解也是一种本事。之前对直接学习同侪的代码比较忌讳，且心理负担也比较大，但是后来想想，我上网找教程其实也是在看别人的代码，把优秀同侪的作业当做教程之一来看又有何不可？
+- **善用py103同侪资源** 之前对直接学习同侪的代码比较忌讳，且心理负担也比较大，但是后来想想，我上网找教程其实也是在看别人的代码，把优秀同侪的作业当做教程之一来看又有何不可？别以为读懂大家的代码容易，看懂并理解也是一种本事。
 
 - **关注课程issue：** 比如，在Mac种tk不能输入中文的问题，就有人完美解决了[OSX中的 Tk GUI无法输入中文的问题](https://code661.github.io/2017/01/20/a-problem-about-Tk-input_chinese/)
     - 下载[ActiveTcl 8.5.18.0](http://www.activestate.com/activetcl/downloads)并安装
