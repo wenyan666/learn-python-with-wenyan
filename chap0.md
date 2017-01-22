@@ -1,4 +1,4 @@
-## CHap0
+## Chap0
 
 ### 配置环境
 手里只有windows，然后想折腾linux虚拟机，后来还是决定入手Mac。环境选择上强推OS X，其次是linux，如果始终坚持要用windows，那就做好迎接九九八十一难的准备。
