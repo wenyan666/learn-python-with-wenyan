@@ -1,7 +1,8 @@
 {
-"plugins": ["disqus"],
-"pluginsConfig": {
-    "disqus": {
-        "shortName": "wenyan"
+    "plugins": ["disqus"],
+    "pluginsConfig": {
+        "disqus": {
+            "shortName": "your_short_name"
+        }
     }
 }
